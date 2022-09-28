@@ -21,6 +21,6 @@ clone this project by typing in the bash the following command:
 ```bash
 git clone https://github.com/NoelH98/android_crypto_exchange_rate.git
 ```
-3: Import it in Android Studio IDE.
+3: Import it into Android Studio IDE.
 
 4: Run the application :D
