@@ -7,6 +7,10 @@ CryptoCompare API(https://min.api.cryptocompare.com).
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+## Screenshots
+[![Screenshot-2017-10-31-16-41-58.png](https://i.postimg.cc/pXp8jnwd/Screenshot-2017-10-31-16-41-58.png)](https://postimg.cc/ZCzCt0Kk)
+[![Screenshot-2017-10-31-16-41-31.png](https://i.postimg.cc/L4Zg6MLq/Screenshot-2017-10-31-16-41-31.png)](https://postimg.cc/Thf3CFkG)
+
 ## Requirements
 * Android studio.
 
